@@ -1,1 +1,1 @@
-my readme on shell basics
+0x00-shell_basics readme
